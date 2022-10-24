@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.bg-dark{
+  background:#0a0533 !important;
+}
